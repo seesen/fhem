@@ -1,0 +1,8 @@
+2018-12-21 12:27:23 - info: Logging to directory: 'data/log/2018-12-21.12-27-23'
+2018-12-21 12:27:23 - info: Starting zigbee2mqtt version 1.0.1 (commit #84593a5)
+2018-12-21 12:27:23 - info: Starting zigbee-shepherd
+2018-12-21 12:27:23 - info: Error while starting zigbee-shepherd, attemping to fix... (takes 60 seconds)
+2018-12-21 12:28:23 - info: Starting zigbee-shepherd
+2018-12-21 12:28:23 - error: Error while starting zigbee-shepherd!
+2018-12-21 12:28:23 - error: Press the reset button on the stick (the one closest to the USB) and start again
+2018-12-21 12:28:23 - error: Failed to start Error: Error: No such file or directory, cannot open /dev/tty.usbmodem1411

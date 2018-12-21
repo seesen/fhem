@@ -1,0 +1,81 @@
+version: '2'
+
+services:
+    zigbee:
+        restart: always
+        image: koenkk/zigbee2mqtt
+        devices:
+            - /dev/tty0:/dev/ttyACM0
+        volumes:
+            - ./zigbee/data:/app/data
+
+    grafana:
+         restart: always
+         image: grafana/grafana
+         expose:
+            - "3000"
+         ports:
+            - "3000:3000"
+         volumes:
+            - grafana-volume:/var/lib/grafana
+         networks:
+            - fhem-network
+
+    fhem:
+        restart: always
+        expose:
+            - "8083"
+            - "7072"
+        ports:
+            - "8083:8083"
+            - "7072:7072"
+        image: fhem/fhem
+        privileged: true
+        volumes:
+            - ./fhem/core/:/opt/fhem/
+        networks:
+            - fhem-network
+        depends_on:
+            - "mysql"
+            - "mqtt"
+
+    mysql:
+        restart: always
+        expose:
+            - "3306"
+            - "33060"
+        ports:
+            - "3306:3306"
+            - "33060:33060"
+        image: mysql/mysql-server:5.7
+        volumes:
+            - ./mysql/init.sql:/docker-entrypoint-initdb.d/fhem-init.sql
+            - ./mysql/data:/var/lib/mysql
+        environment:
+            - MYSQL_RANDOM_ROOT_PASSWORD=yes
+        networks:
+            - fhem-network
+ 
+    mqtt:
+        restart: always
+        expose:
+            - "1883"
+            - "9001"
+        ports:
+            - "1883:1883"
+            - "9001:9001"
+        image: toke/mosquitto
+        networks:
+            - fhem-network
+        volumes:
+            - ./mqtt/config/:/mqtt/config/
+            - ./mqtt/log/:/mqtt/log/
+            - ./mqtt/data/:/mqtt/data/
+   
+networks:
+    fhem-network:
+        driver: bridge
+volumes:
+    grafana-volume:
+        external: true
+

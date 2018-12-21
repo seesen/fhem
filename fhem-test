@@ -1,0 +1,6 @@
+echo "# fhem" >> README1.md
+git init
+git add README1.md
+git commit -m "first commit"
+git remote add origin https://github.com/seesen/fhem.git
+git push -u origin master

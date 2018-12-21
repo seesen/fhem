@@ -1,0 +1,24 @@
+#Thu Dec 20 23:10:55 2018
+setstate DockerImageInfo ok
+setstate DockerImageInfo 2018-12-20 22:07:10 image.created 2018-12-19T16:56:41+0000
+setstate DockerImageInfo 2018-12-20 22:07:10 image.description A basic Docker image for FHEM house automation system, based on Debian Stretch.
+setstate DockerImageInfo 2018-12-20 22:07:10 image.documentation https://github.com/fhem/fhem-docker/blob/cb5bd5bf3c9fa64785750be0fe6196d7d1928e46/README.md
+setstate DockerImageInfo 2018-12-20 22:07:10 image.licenses MIT
+setstate DockerImageInfo 2018-12-20 22:07:10 image.revision cb5bd5bf3c9fa64785750be0fe6196d7d1928e46
+setstate DockerImageInfo 2018-12-20 22:07:10 image.source https://github.com/fhem/fhem-docker/
+setstate DockerImageInfo 2018-12-20 22:07:10 image.title fhem-amd64_linux
+setstate DockerImageInfo 2018-12-20 22:07:10 image.url https://hub.docker.com/r/fhem/fhem-amd64_linux
+setstate DockerImageInfo 2018-12-20 22:07:10 image.vendor FHEM
+setstate DockerImageInfo 2018-12-20 22:07:10 image.version 5.9-s18004_1.4.2
+setstate DockerImageInfo 2018-12-20 22:07:10 ssh-id_ed25519.pub ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPZ1B+ykJiX8+6mk+sqWT31DAbbZ4Zf2M6K1Q7JNmY1j fhem@fhem-docker\
+
+setstate DockerImageInfo 2018-12-20 22:07:10 ssh-id_rsa.pub ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC3pVuZ/e5Ql7ymSOMigBXFtKS7kt4hY1pTNF6TOIR7zQZ5IQxkSfobZmitQW/tDnFHnYM03AzeRvsxY6wBz+DPPg+qmCsvmDQR80CtODh9qoxX6x+dBg4IBVJwZFU56bcKhcqBzEHcuiBROuXwXRd8G2YP7nDhwt6t1XhRVd7s0anPjdpr/Ue9LBkk1ZvHGzzfo6KtQve2tNzQBPXFZ8Mfc5CoZkoLv2NyJCwMpBKXJ+HonJfcOh8YUS4PL6x3N7jHXh9ZTrjXkIIWWaJHadAwwqcBgbFwJctezF1gFJuDwZVqDgj2tN9GApyQ2sYmlqvlcg/FAk4ylgQvld9gMAKd fhem@fhem-docker\
+
+setstate Logfile active
+setstate WEB 2018-12-20 23:08:29 state Initialized
+setstate autocreate active
+setstate eventTypes active
+setstate global no definition
+setstate initialUsbCheck 2018-12-20 23:08:29
+setstate initialUsbCheck 2018-12-20 23:08:29 state active
+setstate telnetPort 2018-12-20 23:08:29 state Initialized

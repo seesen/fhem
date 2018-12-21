@@ -1,0 +1,422 @@
+2018.12.20 22:05:11.547 1: Including fhem.cfg
+2018.12.20 22:05:11.599 3: WEB: port 8083 opened
+2018.12.20 22:05:11.608 2: eventTypes: loaded 0 events from ./log/eventTypes.txt
+2018.12.20 22:05:11.612 3: telnetPort: port 7072 opened
+2018.12.20 22:05:11.614 1: usb create starting
+2018.12.20 22:05:11.699 3: Probing CUL device /dev/ttyS0
+2018.12.20 22:05:11.909 3: Probing CUL device /dev/ttyS1
+2018.12.20 22:05:11.910 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.20 22:05:11.910 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.20 22:05:11.910 3: Probing CUL device /dev/ttyS2
+2018.12.20 22:05:11.910 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.20 22:05:11.910 3: Probing CUL device /dev/ttyS3
+2018.12.20 22:05:11.911 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.20 22:05:11.913 1: usb create end
+2018.12.20 22:05:11.914 0: Featurelevel: 5.9
+2018.12.20 22:05:11.914 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:115)
+2018.12.20 22:05:23.409 0: Server shutdown
+2018.12.20 22:06:50.182 1: Including fhem.cfg
+2018.12.20 22:06:50.235 3: WEB: port 8083 opened
+2018.12.20 22:06:50.245 2: eventTypes: loaded 0 events from ./log/eventTypes.txt
+2018.12.20 22:06:50.249 3: telnetPort: port 7072 opened
+2018.12.20 22:06:50.249 1: Including ./log/fhem.save
+2018.12.20 22:06:50.251 1: usb create starting
+2018.12.20 22:06:50.342 3: Probing CUL device /dev/ttyS0
+2018.12.20 22:06:50.552 3: Probing CUL device /dev/ttyS1
+2018.12.20 22:06:50.553 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.20 22:06:50.553 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.20 22:06:50.553 3: Probing CUL device /dev/ttyS2
+2018.12.20 22:06:50.553 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.20 22:06:50.553 3: Probing CUL device /dev/ttyS3
+2018.12.20 22:06:50.554 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.20 22:06:50.557 1: usb create end
+2018.12.20 22:06:50.558 0: Featurelevel: 5.9
+2018.12.20 22:06:50.558 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:92)
+2018.12.20 22:07:40.206 0: Server shutdown
+2018.12.20 22:07:57.254 1: Including fhem.cfg
+2018.12.20 22:07:57.309 3: WEB: port 8083 opened
+2018.12.20 22:07:57.318 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.20 22:07:57.323 3: telnetPort: port 7072 opened
+2018.12.20 22:07:57.323 1: Including ./log/fhem.save
+2018.12.20 22:07:57.326 1: usb create starting
+2018.12.20 22:07:57.413 3: Probing CUL device /dev/ttyS0
+2018.12.20 22:07:57.623 3: Probing CUL device /dev/ttyS1
+2018.12.20 22:07:57.623 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.20 22:07:57.623 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.20 22:07:57.624 3: Probing CUL device /dev/ttyS2
+2018.12.20 22:07:57.624 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.20 22:07:57.624 3: Probing CUL device /dev/ttyS3
+2018.12.20 22:07:57.624 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.20 22:07:57.628 1: usb create end
+2018.12.20 22:07:57.628 0: Featurelevel: 5.9
+2018.12.20 22:07:57.628 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:92)
+2018.12.20 22:08:13.780 0: Server shutdown
+2018.12.20 22:10:46.134 1: Including fhem.cfg
+2018.12.20 22:10:46.184 3: WEB: port 8083 opened
+2018.12.20 22:10:46.193 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.20 22:10:46.197 3: telnetPort: port 7072 opened
+2018.12.20 22:10:46.197 1: Including ./log/fhem.save
+2018.12.20 22:10:46.199 1: usb create starting
+2018.12.20 22:10:46.284 3: Probing CUL device /dev/ttyS0
+2018.12.20 22:10:46.494 3: Probing CUL device /dev/ttyS1
+2018.12.20 22:10:46.495 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.20 22:10:46.495 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.20 22:10:46.495 3: Probing CUL device /dev/ttyS2
+2018.12.20 22:10:46.496 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.20 22:10:46.496 3: Probing CUL device /dev/ttyS3
+2018.12.20 22:10:46.496 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.20 22:10:46.500 1: usb create end
+2018.12.20 22:10:46.501 0: Featurelevel: 5.9
+2018.12.20 22:10:46.501 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:92)
+2018.12.20 22:13:09.341 0: Server shutdown
+2018.12.20 22:13:42.965 1: Including fhem.cfg
+2018.12.20 22:13:43.015 3: WEB: port 8083 opened
+2018.12.20 22:13:43.023 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.20 22:13:43.027 3: telnetPort: port 7072 opened
+2018.12.20 22:13:43.027 1: Including ./log/fhem.save
+2018.12.20 22:13:43.030 1: usb create starting
+2018.12.20 22:13:43.113 3: Probing CUL device /dev/ttyS0
+2018.12.20 22:13:43.324 3: Probing CUL device /dev/ttyS1
+2018.12.20 22:13:43.325 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.20 22:13:43.325 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.20 22:13:43.325 3: Probing CUL device /dev/ttyS2
+2018.12.20 22:13:43.326 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.20 22:13:43.326 3: Probing CUL device /dev/ttyS3
+2018.12.20 22:13:43.326 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.20 22:13:43.330 1: usb create end
+2018.12.20 22:13:43.331 0: Featurelevel: 5.9
+2018.12.20 22:13:43.331 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:92)
+2018.12.20 22:16:19.653 1: MKDIR restoreDir/update/2018-12-20
+2018.12.20 22:16:19.901 1: UPD ./CHANGED
+2018.12.20 22:16:19.974 1: UPD ./fhem.pl
+2018.12.20 22:16:20.027 1: UPD FHEM/10_MQTT2_DEVICE.pm
+2018.12.20 22:16:20.071 1: UPD FHEM/49_SSCam.pm
+2018.12.20 22:16:20.193 1: UPD FHEM/49_SSCamSTRM.pm
+2018.12.20 22:16:20.432 1: UPD www/pgm2/zwave_neighborlist.js
+2018.12.20 22:16:20.507 1: saving fhem.cfg
+2018.12.20 22:16:20.508 1: saving ./log/fhem.save
+2018.12.20 22:16:20.508 1: 
+2018.12.20 22:16:20.508 1: New entries in the CHANGED file:
+2018.12.20 22:16:20.508 1:   - feature: 49_SSCam: tooltip hints in camera devices, commandref revised
+2018.12.20 22:16:20.509 1: Calling /usr/bin/perl ./contrib/commandref_modular.pl, this may take a while
+2018.12.20 22:16:20.546 1: 
+2018.12.20 22:16:20.546 1: update finished, "shutdown restart" is needed to activate the changes.
+2018.12.20 22:16:20.546 1: 
+2018.12.20 22:16:20.546 1: Please consider using the global attribute sendStatistics
+2018.12.20 22:16:34.939 0: Server shutdown
+2018.12.20 22:16:37.006 1: Including fhem.cfg
+2018.12.20 22:16:37.055 3: WEB: port 8083 opened
+2018.12.20 22:16:37.064 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.20 22:16:37.067 3: telnetPort: port 7072 opened
+2018.12.20 22:16:37.067 1: Including ./log/fhem.save
+2018.12.20 22:16:37.070 1: usb create starting
+2018.12.20 22:16:37.155 3: Probing CUL device /dev/ttyS0
+2018.12.20 22:16:37.366 3: Probing CUL device /dev/ttyS1
+2018.12.20 22:16:37.367 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.20 22:16:37.367 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.20 22:16:37.367 3: Probing CUL device /dev/ttyS2
+2018.12.20 22:16:37.368 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.20 22:16:37.368 3: Probing CUL device /dev/ttyS3
+2018.12.20 22:16:37.368 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.20 22:16:37.372 1: usb create end
+2018.12.20 22:16:37.373 0: Featurelevel: 5.9
+2018.12.20 22:16:37.373 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:3435)
+2018.12.20 22:22:11.869 0: Server shutdown
+2018.12.20 22:23:25.157 1: Including fhem.cfg
+2018.12.20 22:23:25.208 3: WEB: port 8083 opened
+2018.12.20 22:23:25.216 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.20 22:23:25.220 3: telnetPort: port 7072 opened
+2018.12.20 22:23:25.220 1: Including ./log/fhem.save
+2018.12.20 22:23:25.222 1: usb create starting
+2018.12.20 22:23:25.305 3: Probing CUL device /dev/ttyS0
+2018.12.20 22:23:25.516 3: Probing CUL device /dev/ttyS1
+2018.12.20 22:23:25.517 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.20 22:23:25.517 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.20 22:23:25.517 3: Probing CUL device /dev/ttyS2
+2018.12.20 22:23:25.518 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.20 22:23:25.518 3: Probing CUL device /dev/ttyS3
+2018.12.20 22:23:25.519 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.20 22:23:25.523 1: usb create end
+2018.12.20 22:23:25.524 0: Featurelevel: 5.9
+2018.12.20 22:23:25.525 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:99)
+2018.12.20 22:29:01.457 0: Server shutdown
+2018.12.20 22:31:16.078 1: Including fhem.cfg
+2018.12.20 22:31:16.128 3: WEB: port 8083 opened
+2018.12.20 22:31:16.136 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.20 22:31:16.140 3: telnetPort: port 7072 opened
+2018.12.20 22:31:16.140 1: Including ./log/fhem.save
+2018.12.20 22:31:16.142 1: usb create starting
+2018.12.20 22:31:16.226 3: Probing CUL device /dev/ttyS0
+2018.12.20 22:31:16.437 3: Probing CUL device /dev/ttyS1
+2018.12.20 22:31:16.437 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.20 22:31:16.437 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.20 22:31:16.438 3: Probing CUL device /dev/ttyS2
+2018.12.20 22:31:16.438 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.20 22:31:16.438 3: Probing CUL device /dev/ttyS3
+2018.12.20 22:31:16.439 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.20 22:31:16.443 1: usb create end
+2018.12.20 22:31:16.444 0: Featurelevel: 5.9
+2018.12.20 22:31:16.444 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:99)
+2018.12.20 22:36:16.324 0: Server shutdown
+2018.12.20 22:37:59.306 1: Including fhem.cfg
+2018.12.20 22:37:59.360 3: WEB: port 8083 opened
+2018.12.20 22:37:59.369 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.20 22:37:59.373 3: telnetPort: port 7072 opened
+2018.12.20 22:37:59.373 1: Including ./log/fhem.save
+2018.12.20 22:37:59.375 1: usb create starting
+2018.12.20 22:37:59.461 3: Probing CUL device /dev/ttyS0
+2018.12.20 22:37:59.671 3: Probing CUL device /dev/ttyS1
+2018.12.20 22:37:59.672 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.20 22:37:59.672 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.20 22:37:59.672 3: Probing CUL device /dev/ttyS2
+2018.12.20 22:37:59.672 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.20 22:37:59.672 3: Probing CUL device /dev/ttyS3
+2018.12.20 22:37:59.673 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.20 22:37:59.675 1: usb create end
+2018.12.20 22:37:59.676 0: Featurelevel: 5.9
+2018.12.20 22:37:59.676 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:99)
+2018.12.20 22:44:21.857 0: Server shutdown
+2018.12.20 23:08:29.179 1: Including fhem.cfg
+2018.12.20 23:08:29.229 3: WEB: port 8083 opened
+2018.12.20 23:08:29.238 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.20 23:08:29.241 3: telnetPort: port 7072 opened
+2018.12.20 23:08:29.241 1: Including ./log/fhem.save
+2018.12.20 23:08:29.244 1: usb create starting
+2018.12.20 23:08:29.328 3: Probing CUL device /dev/ttyS0
+2018.12.20 23:08:29.539 3: Probing CUL device /dev/ttyS1
+2018.12.20 23:08:29.540 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.20 23:08:29.540 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.20 23:08:29.540 3: Probing CUL device /dev/ttyS2
+2018.12.20 23:08:29.541 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.20 23:08:29.541 3: Probing CUL device /dev/ttyS3
+2018.12.20 23:08:29.542 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.20 23:08:29.546 1: usb create end
+2018.12.20 23:08:29.547 0: Featurelevel: 5.9
+2018.12.20 23:08:29.547 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:99)
+2018.12.20 23:10:55.797 0: Server shutdown
+2018.12.20 23:18:55.812 1: Including fhem.cfg
+2018.12.20 23:18:55.862 3: WEB: port 8083 opened
+2018.12.20 23:18:55.871 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.20 23:18:55.874 3: telnetPort: port 7072 opened
+2018.12.20 23:18:55.874 1: Including ./log/fhem.save
+2018.12.20 23:18:55.877 1: usb create starting
+2018.12.20 23:18:55.962 3: Probing CUL device /dev/ttyS0
+2018.12.20 23:18:56.173 3: Probing CUL device /dev/ttyS1
+2018.12.20 23:18:56.174 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.20 23:18:56.174 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.20 23:18:56.174 3: Probing CUL device /dev/ttyS2
+2018.12.20 23:18:56.175 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.20 23:18:56.175 3: Probing CUL device /dev/ttyS3
+2018.12.20 23:18:56.175 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.20 23:18:56.178 1: usb create end
+2018.12.20 23:18:56.178 0: Featurelevel: 5.9
+2018.12.20 23:18:56.178 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:99)
+2018.12.20 23:21:47.600 1: UPD www/holo-style/custom.js
+2018.12.20 23:21:47.763 1: UPD www/holo-style/images/bg_wrapper.jpg
+2018.12.20 23:21:48.133 1: UPD www/images/holo-style/doorhandle.svg
+2018.12.20 23:21:48.315 1: UPD www/images/holo-style/favicon.ico
+2018.12.20 23:21:48.489 1: UPD www/images/holo-style/heater.svg
+2018.12.20 23:21:48.644 1: UPD www/images/holo-style/off.svg
+2018.12.20 23:21:48.788 1: UPD www/images/holo-style/on.svg
+2018.12.20 23:21:48.955 1: UPD www/images/holo-style/plug.svg
+2018.12.20 23:21:49.123 1: UPD www/images/holo-style/power.svg
+2018.12.20 23:21:49.305 1: UPD www/images/holo-style/router.svg
+2018.12.20 23:21:49.484 1: UPD www/images/holo-style/smartphone.svg
+2018.12.20 23:21:49.655 1: UPD www/images/holo-style/tv.svg
+2018.12.20 23:21:49.817 1: UPD www/images/holo-style/weather.svg
+2018.12.20 23:21:49.977 1: UPD www/pgm2/holo-stylefloorplanstyle.css
+2018.12.20 23:21:50.136 1: UPD www/pgm2/holo-stylestyle.css
+2018.12.20 23:21:50.286 1: UPD www/pgm2/holo-stylesvg_style.css
+2018.12.20 23:21:50.450 1: saving fhem.cfg
+2018.12.20 23:21:50.451 1: saving ./log/fhem.save
+2018.12.20 23:21:50.451 1: 
+2018.12.20 23:21:50.452 1: New entries in the CHANGED file:
+2018.12.20 23:21:50.452 1: FHEM holo-style custom theme last changes:
+2018.12.20 23:21:50.452 1: 2018-11-17
+2018.12.20 23:21:50.452 1:  - Changed some style elements for flooplan
+2018.12.20 23:21:50.452 1: 
+2018.12.20 23:21:50.453 1: update finished, "shutdown restart" is needed to activate the changes.
+2018.12.20 23:21:50.453 1: 
+2018.12.20 23:21:50.453 1: Please consider using the global attribute sendStatistics
+2018.12.20 23:22:15.799 0: Server shutdown
+2018.12.20 23:22:17.892 1: Including fhem.cfg
+2018.12.20 23:22:17.944 3: WEB: port 8083 opened
+2018.12.20 23:22:17.953 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.20 23:22:17.956 3: telnetPort: port 7072 opened
+2018.12.20 23:22:17.956 1: Including ./log/fhem.save
+2018.12.20 23:22:17.959 1: usb create starting
+2018.12.20 23:22:18.045 3: Probing CUL device /dev/ttyS0
+2018.12.20 23:22:18.256 3: Probing CUL device /dev/ttyS1
+2018.12.20 23:22:18.257 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.20 23:22:18.257 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.20 23:22:18.257 3: Probing CUL device /dev/ttyS2
+2018.12.20 23:22:18.257 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.20 23:22:18.258 3: Probing CUL device /dev/ttyS3
+2018.12.20 23:22:18.258 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.20 23:22:18.263 1: usb create end
+2018.12.20 23:22:18.263 0: Featurelevel: 5.9
+2018.12.20 23:22:18.264 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:3967)
+2018.12.20 23:22:19.130 3: FHEMWEB WEB CSRF error: csrf_515341204596444 ne csrf_105686476953306 for client WEB_192.168.10.84_51934 / command save. For details see the csrfToken FHEMWEB attribute.
+2018.12.20 23:26:15.606 0: Server shutdown
+2018.12.21 10:40:19.018 1: Including fhem.cfg
+2018.12.21 10:40:19.087 3: WEB: port 8083 opened
+2018.12.21 10:40:19.097 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.21 10:40:19.101 3: telnetPort: port 7072 opened
+2018.12.21 10:40:19.101 1: Including ./log/fhem.save
+2018.12.21 10:40:19.104 1: usb create starting
+2018.12.21 10:40:19.197 3: Probing CUL device /dev/ttyS0
+2018.12.21 10:40:19.408 3: Probing CUL device /dev/ttyS1
+2018.12.21 10:40:19.408 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.21 10:40:19.408 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.21 10:40:19.408 3: Probing CUL device /dev/ttyS2
+2018.12.21 10:40:19.408 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.21 10:40:19.408 3: Probing CUL device /dev/ttyS3
+2018.12.21 10:40:19.409 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.21 10:40:19.410 1: usb create end
+2018.12.21 10:40:19.410 0: Featurelevel: 5.9
+2018.12.21 10:40:19.410 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:91)
+2018.12.21 12:07:24.248 0: Server shutdown
+2018.12.21 12:07:58.483 1: Including fhem.cfg
+2018.12.21 12:07:58.533 3: WEB: port 8083 opened
+2018.12.21 12:07:58.542 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.21 12:07:58.545 3: telnetPort: port 7072 opened
+2018.12.21 12:07:58.545 1: Including ./log/fhem.save
+2018.12.21 12:07:58.548 1: usb create starting
+2018.12.21 12:07:58.633 3: Probing CUL device /dev/ttyS0
+2018.12.21 12:07:58.843 3: Probing CUL device /dev/ttyS1
+2018.12.21 12:07:58.844 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.21 12:07:58.844 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.21 12:07:58.844 3: Probing CUL device /dev/ttyS2
+2018.12.21 12:07:58.845 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.21 12:07:58.845 3: Probing CUL device /dev/ttyS3
+2018.12.21 12:07:58.845 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.21 12:07:58.848 1: usb create end
+2018.12.21 12:07:58.849 0: Featurelevel: 5.9
+2018.12.21 12:07:58.849 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:99)
+2018.12.21 12:08:27.845 0: Server shutdown
+2018.12.21 12:08:44.505 1: Including fhem.cfg
+2018.12.21 12:08:44.555 3: WEB: port 8083 opened
+2018.12.21 12:08:44.564 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.21 12:08:44.567 3: telnetPort: port 7072 opened
+2018.12.21 12:08:44.567 1: Including ./log/fhem.save
+2018.12.21 12:08:44.570 1: usb create starting
+2018.12.21 12:08:44.653 3: Probing CUL device /dev/ttyS0
+2018.12.21 12:08:44.864 3: Probing CUL device /dev/ttyS1
+2018.12.21 12:08:44.864 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.21 12:08:44.864 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.21 12:08:44.865 3: Probing CUL device /dev/ttyS2
+2018.12.21 12:08:44.865 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.21 12:08:44.865 3: Probing CUL device /dev/ttyS3
+2018.12.21 12:08:44.866 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.21 12:08:44.869 1: usb create end
+2018.12.21 12:08:44.870 0: Featurelevel: 5.9
+2018.12.21 12:08:44.870 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:99)
+2018.12.21 12:11:22.165 0: Server shutdown
+2018.12.21 12:11:37.040 1: Including fhem.cfg
+2018.12.21 12:11:37.094 3: WEB: port 8083 opened
+2018.12.21 12:11:37.103 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.21 12:11:37.106 3: telnetPort: port 7072 opened
+2018.12.21 12:11:37.106 1: Including ./log/fhem.save
+2018.12.21 12:11:37.109 1: usb create starting
+2018.12.21 12:11:37.196 3: Probing CUL device /dev/ttyS0
+2018.12.21 12:11:37.408 3: Probing CUL device /dev/ttyS1
+2018.12.21 12:11:37.408 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.21 12:11:37.409 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.21 12:11:37.409 3: Probing CUL device /dev/ttyS2
+2018.12.21 12:11:37.409 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.21 12:11:37.410 3: Probing CUL device /dev/ttyS3
+2018.12.21 12:11:37.410 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.21 12:11:37.413 1: usb create end
+2018.12.21 12:11:37.414 0: Featurelevel: 5.9
+2018.12.21 12:11:37.414 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:99)
+2018.12.21 12:14:47.576 0: Server shutdown
+2018.12.21 12:16:11.375 1: Including fhem.cfg
+2018.12.21 12:16:11.429 3: WEB: port 8083 opened
+2018.12.21 12:16:11.438 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.21 12:16:11.442 3: telnetPort: port 7072 opened
+2018.12.21 12:16:11.442 1: Including ./log/fhem.save
+2018.12.21 12:16:11.445 1: usb create starting
+2018.12.21 12:16:11.532 3: Probing CUL device /dev/ttyS0
+2018.12.21 12:16:11.743 3: Probing CUL device /dev/ttyS1
+2018.12.21 12:16:11.743 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.21 12:16:11.743 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.21 12:16:11.743 3: Probing CUL device /dev/ttyS2
+2018.12.21 12:16:11.744 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.21 12:16:11.744 3: Probing CUL device /dev/ttyS3
+2018.12.21 12:16:11.744 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.21 12:16:11.747 1: usb create end
+2018.12.21 12:16:11.747 0: Featurelevel: 5.9
+2018.12.21 12:16:11.747 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:92)
+2018.12.21 12:18:19.577 0: Server shutdown
+2018.12.21 12:24:48.825 1: Including fhem.cfg
+2018.12.21 12:24:48.875 3: WEB: port 8083 opened
+2018.12.21 12:24:48.884 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.21 12:24:48.888 3: telnetPort: port 7072 opened
+2018.12.21 12:24:48.888 1: Including ./log/fhem.save
+2018.12.21 12:24:48.890 1: usb create starting
+2018.12.21 12:24:48.973 3: Probing CUL device /dev/ttyS0
+2018.12.21 12:24:49.184 3: Probing CUL device /dev/ttyS1
+2018.12.21 12:24:49.185 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.21 12:24:49.185 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.21 12:24:49.185 3: Probing CUL device /dev/ttyS2
+2018.12.21 12:24:49.185 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.21 12:24:49.186 3: Probing CUL device /dev/ttyS3
+2018.12.21 12:24:49.186 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.21 12:24:49.190 1: usb create end
+2018.12.21 12:24:49.190 0: Featurelevel: 5.9
+2018.12.21 12:24:49.190 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:92)
+2018.12.21 12:59:06.550 0: Server shutdown
+2018.12.21 13:01:37.137 1: Including fhem.cfg
+2018.12.21 13:01:37.190 3: WEB: port 8083 opened
+2018.12.21 13:01:37.200 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.21 13:01:37.203 3: telnetPort: port 7072 opened
+2018.12.21 13:01:37.203 1: Including ./log/fhem.save
+2018.12.21 13:01:37.206 1: usb create starting
+2018.12.21 13:01:37.294 3: Probing CUL device /dev/ttyS0
+2018.12.21 13:01:37.505 3: Probing CUL device /dev/ttyS1
+2018.12.21 13:01:37.505 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.21 13:01:37.505 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.21 13:01:37.506 3: Probing CUL device /dev/ttyS2
+2018.12.21 13:01:37.506 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.21 13:01:37.506 3: Probing CUL device /dev/ttyS3
+2018.12.21 13:01:37.507 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.21 13:01:37.509 1: usb create end
+2018.12.21 13:01:37.510 0: Featurelevel: 5.9
+2018.12.21 13:01:37.510 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:99)
+2018.12.21 13:03:02.159 0: Server shutdown
+2018.12.21 13:06:18.413 1: Including fhem.cfg
+2018.12.21 13:06:18.465 3: WEB: port 8083 opened
+2018.12.21 13:06:18.475 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.21 13:06:18.478 3: telnetPort: port 7072 opened
+2018.12.21 13:06:18.478 1: Including ./log/fhem.save
+2018.12.21 13:06:18.481 1: usb create starting
+2018.12.21 13:06:18.566 3: Probing CUL device /dev/ttyS0
+2018.12.21 13:06:18.777 3: Probing CUL device /dev/ttyS1
+2018.12.21 13:06:18.778 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.21 13:06:18.778 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.21 13:06:18.778 3: Probing CUL device /dev/ttyS2
+2018.12.21 13:06:18.779 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.21 13:06:18.779 3: Probing CUL device /dev/ttyS3
+2018.12.21 13:06:18.779 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.21 13:06:18.782 1: usb create end
+2018.12.21 13:06:18.782 0: Featurelevel: 5.9
+2018.12.21 13:06:18.782 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:99)
+2018.12.21 13:21:14.819 0: Server shutdown
+2018.12.21 13:27:24.881 1: Including fhem.cfg
+2018.12.21 13:27:24.931 3: WEB: port 8083 opened
+2018.12.21 13:27:24.940 2: eventTypes: loaded 8 events from ./log/eventTypes.txt
+2018.12.21 13:27:24.944 3: telnetPort: port 7072 opened
+2018.12.21 13:27:24.944 1: Including ./log/fhem.save
+2018.12.21 13:27:24.946 1: usb create starting
+2018.12.21 13:27:25.034 3: Probing CUL device /dev/ttyS0
+2018.12.21 13:27:25.244 3: Probing CUL device /dev/ttyS1
+2018.12.21 13:27:25.245 1: PERL WARNING: can't getattr: Input/output error at ./FHEM/DevIo.pm line 420.
+2018.12.21 13:27:25.245 1: CUL: Can't open /dev/ttyS1: Input/output error
+2018.12.21 13:27:25.245 3: Probing CUL device /dev/ttyS2
+2018.12.21 13:27:25.246 1: CUL: Can't open /dev/ttyS2: Input/output error
+2018.12.21 13:27:25.246 3: Probing CUL device /dev/ttyS3
+2018.12.21 13:27:25.246 1: CUL: Can't open /dev/ttyS3: Input/output error
+2018.12.21 13:27:25.250 1: usb create end
+2018.12.21 13:27:25.251 0: Featurelevel: 5.9
+2018.12.21 13:27:25.251 0: Server started with 8 defined entities (fhem.pl:18003/2018-12-19 perl:5.024001 os:linux user:fhem pid:99)
+2018.12.21 13:51:41.622 0: Server shutdown

@@ -1,0 +1,116 @@
+1545340245: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1545340245: Config loaded from /mqtt/config/mosquitto.conf.
+1545340245: Opening websockets listen socket on port 9001.
+1545340245: Opening ipv4 listen socket on port 1883.
+1545340245: Opening ipv6 listen socket on port 1883.
+1545340245: Warning: Mosquitto should not be run as root/administrator.
+1545340390: mosquitto version 1.4.15 terminating
+1545340422: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1545340422: Config loaded from /mqtt/config/mosquitto.conf.
+1545340422: Opening websockets listen socket on port 9001.
+1545340422: Opening ipv4 listen socket on port 1883.
+1545340422: Opening ipv6 listen socket on port 1883.
+1545340422: Warning: Mosquitto should not be run as root/administrator.
+1545340659: New connection from 192.168.10.84 on port 1883.
+1545340659: New client connected from 192.168.10.84 as MQTT_FX_Client (c1, k60).
+1545340931: mosquitto version 1.4.15 terminating
+1545341004: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1545341004: Config loaded from /mqtt/config/mosquitto.conf.
+1545341004: Opening websockets listen socket on port 9001.
+1545341004: Opening ipv4 listen socket on port 1883.
+1545341004: Opening ipv6 listen socket on port 1883.
+1545341004: Warning: Mosquitto should not be run as root/administrator.
+1545341342: mosquitto version 1.4.15 terminating
+1545341475: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1545341475: Config loaded from /mqtt/config/mosquitto.conf.
+1545341475: Opening websockets listen socket on port 9001.
+1545341475: Opening ipv4 listen socket on port 1883.
+1545341475: Opening ipv6 listen socket on port 1883.
+1545341475: Warning: Mosquitto should not be run as root/administrator.
+1545341777: mosquitto version 1.4.15 terminating
+1545341877: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1545341877: Config loaded from /mqtt/config/mosquitto.conf.
+1545341877: Opening websockets listen socket on port 9001.
+1545341877: Opening ipv4 listen socket on port 1883.
+1545341877: Opening ipv6 listen socket on port 1883.
+1545341877: Warning: Mosquitto should not be run as root/administrator.
+1545342262: mosquitto version 1.4.15 terminating
+1545343708: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1545343708: Config loaded from /mqtt/config/mosquitto.conf.
+1545343708: Opening websockets listen socket on port 9001.
+1545343708: Opening ipv4 listen socket on port 1883.
+1545343708: Opening ipv6 listen socket on port 1883.
+1545343708: Warning: Mosquitto should not be run as root/administrator.
+1545343797: New connection from 192.168.10.84 on port 1883.
+1545343797: New client connected from 192.168.10.84 as MQTT_FX_Client (c1, k60).
+1545343805: Client MQTT_FX_Client disconnected.
+1545343809: New connection from 192.168.10.84 on port 1883.
+1545343809: New client connected from 192.168.10.84 as MQTT_FX_Client (c1, k60).
+1545343856: mosquitto version 1.4.15 terminating
+1545344334: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1545385219: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1545385219: Config loaded from /mqtt/config/mosquitto.conf.
+1545385219: Opening websockets listen socket on port 9001.
+1545385219: Opening ipv4 listen socket on port 1883.
+1545385219: Opening ipv6 listen socket on port 1883.
+1545385219: Warning: Mosquitto should not be run as root/administrator.
+1545387020: Saving in-memory database to /mqtt/data/mosquitto.db.
+1545388821: Saving in-memory database to /mqtt/data/mosquitto.db.
+1545390445: mosquitto version 1.4.15 terminating
+1545390477: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1545390477: Config loaded from /mqtt/config/mosquitto.conf.
+1545390477: Opening websockets listen socket on port 9001.
+1545390477: Opening ipv4 listen socket on port 1883.
+1545390477: Opening ipv6 listen socket on port 1883.
+1545390477: Warning: Mosquitto should not be run as root/administrator.
+1545390508: mosquitto version 1.4.15 terminating
+1545390523: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1545390523: Config loaded from /mqtt/config/mosquitto.conf.
+1545390523: Opening websockets listen socket on port 9001.
+1545390523: Opening ipv4 listen socket on port 1883.
+1545390523: Opening ipv6 listen socket on port 1883.
+1545390523: Warning: Mosquitto should not be run as root/administrator.
+1545390683: mosquitto version 1.4.15 terminating
+1545390696: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1545390696: Config loaded from /mqtt/config/mosquitto.conf.
+1545390696: Opening websockets listen socket on port 9001.
+1545390696: Opening ipv4 listen socket on port 1883.
+1545390696: Opening ipv6 listen socket on port 1883.
+1545390696: Warning: Mosquitto should not be run as root/administrator.
+1545390888: mosquitto version 1.4.15 terminating
+1545390970: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1545390970: Config loaded from /mqtt/config/mosquitto.conf.
+1545390970: Opening websockets listen socket on port 9001.
+1545390970: Opening ipv4 listen socket on port 1883.
+1545390970: Opening ipv6 listen socket on port 1883.
+1545390970: Warning: Mosquitto should not be run as root/administrator.
+1545391100: mosquitto version 1.4.15 terminating
+1545391487: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1545391487: Config loaded from /mqtt/config/mosquitto.conf.
+1545391487: Opening websockets listen socket on port 9001.
+1545391487: Opening ipv4 listen socket on port 1883.
+1545391487: Opening ipv6 listen socket on port 1883.
+1545391487: Warning: Mosquitto should not be run as root/administrator.
+1545393287: Saving in-memory database to /mqtt/data/mosquitto.db.
+1545393547: mosquitto version 1.4.15 terminating
+1545393696: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1545393696: Config loaded from /mqtt/config/mosquitto.conf.
+1545393696: Opening websockets listen socket on port 9001.
+1545393696: Opening ipv4 listen socket on port 1883.
+1545393696: Opening ipv6 listen socket on port 1883.
+1545393696: Warning: Mosquitto should not be run as root/administrator.
+1545393783: mosquitto version 1.4.15 terminating
+1545393977: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1545393977: Config loaded from /mqtt/config/mosquitto.conf.
+1545393977: Opening websockets listen socket on port 9001.
+1545393977: Opening ipv4 listen socket on port 1883.
+1545393977: Opening ipv6 listen socket on port 1883.
+1545393977: Warning: Mosquitto should not be run as root/administrator.
+1545394875: mosquitto version 1.4.15 terminating
+1545395242: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1545395242: Config loaded from /mqtt/config/mosquitto.conf.
+1545395242: Opening websockets listen socket on port 9001.
+1545395242: Opening ipv4 listen socket on port 1883.
+1545395242: Opening ipv6 listen socket on port 1883.
+1545395242: Warning: Mosquitto should not be run as root/administrator.
+1545396702: mosquitto version 1.4.15 terminating
